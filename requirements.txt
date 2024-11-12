@@ -1,8 +1,8 @@
-streamlit version: 1.35.0
-fastAPI version: 0.115.0
-pydantic version: 2.5.3
-uvicorn version: 0.20.0
-mySQL Connector version: 9.0.0
-pandas version: 2.2.2
-requests version: 2.32.2
-pytest version: 7.4.4
+streamlit
+fastAPI
+pydantic
+uvicorn
+mySQLConnector
+pandas
+requests
+pytest
