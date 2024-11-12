@@ -1,8 +1,0 @@
-streamlit
-fastAPI
-pydantic
-uvicorn
-mysqlconnector
-pandas
-requests
-pytest
