@@ -2,7 +2,7 @@ streamlit
 fastAPI
 pydantic
 uvicorn
-mySQL Connector
+mysqlconnector
 pandas
 requests
 pytest
